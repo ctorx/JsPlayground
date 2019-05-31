@@ -1,2 +1,2 @@
-# JsPlayground
-A place to keep javascript stuff I'm toying with
+# Playground
+A place to keep non important stuff or proofs of concepts I'm messing around with
